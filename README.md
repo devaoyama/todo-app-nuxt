@@ -18,7 +18,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-###TODO
+### TODO
 ```
 flugins/firebase.js 内にFireabase APIを定義する
 ```
